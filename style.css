@@ -1,0 +1,47 @@
+#header {
+    top: 0;
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+#header ul {
+    display: flex;
+    list-style: none;
+}
+
+#header ul li{
+    margin-right: 5rem;
+}
+
+#header ul li a{
+    color: black;
+    text-decoration: none;
+}
+
+#header img {
+    width: 15rem;
+    align-self: center;
+}
+
+form {
+    text-align: center;
+    margin-top: 3rem;
+}
+
+#iframe {
+    text-align: center;
+    margin-top: 3rem;
+}
+
+iframe {
+    width: 500px;
+    height: 300px;
+}
+
+@media (max-width: 300px) {
+    html {
+        font-size: 0.75rem;
+    }
+}
