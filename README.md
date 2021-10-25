@@ -24,7 +24,7 @@ Please find orginal project repo [here](https://github.com/KingsleyIbe/Microvers
 
 ## Live Demo
 
-[Live Demo Link](https://kingsleyibe.github.io/Microverse-Portfolio-Assignment/)
+[Live Demo Link](https://kingsleyibe.github.io/Microverse-Project-Review-Example)
 
 
 ## Getting Started
